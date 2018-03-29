@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="style.css"/>
+        <link href="https://fonts.googleapis.com/css?family=Bubbler+One|Indie+Flower" rel="stylesheet"> 
+    </head>
+     <body>
+ <div class="logo"> <img src="logo.png" alt="logo"></div>
+<div style="width: 100%; clear: both;" align="center">
+    <div id="pch" style="width: 780px;">
+
+        <div class="nav2">
+          <ul><li><a href="/">Home</a></li></ul>
+          <ul><li><a href="/basic-reseller-plan/">Basic Reseller</a></li></ul>
+          <ul><li><a href="/pro-reseller-plan/">Pro Reseller</a></li></ul>
+          <ul><li><a href="/company-info/">Company Info</a></li></ul>
+          <ul><li><a href="/online-support/">Support</a></li></ul>
+          <ul><li><a href="/my-account-info/">My Account</a></li></ul>
+          <ul><li style="border-right:none;"><a href="http://www.thewebpole.com/">Buyers</a></li></ul>                  
+        </div>
+
+    </div> 
+<div class="footer">
+ 
+</div>
+
+</div>
+</body>
+</html>
