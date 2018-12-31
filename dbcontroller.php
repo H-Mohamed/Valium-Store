@@ -1,4 +1,5 @@
 <?php
+
 class DBController {
 	private $host = "localhost";
 	private $user = "root";
